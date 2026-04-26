@@ -320,6 +320,7 @@ DEPENDENCIES
   connection_pool (< 3)
   debug
   dotenv-rails
+  minitest (~> 5.1)
   pg (~> 1.1)
   pry
   puma (>= 5.0)

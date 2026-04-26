@@ -43,6 +43,7 @@ group :development, :test do
   gem "pry"
   gem "webmock"
 end
+gem "minitest", "~> 5.1"
 gem "connection_pool", "< 3"
 gem "rest-client", "~> 2.1"
 gem "redis", "~> 5.4"
