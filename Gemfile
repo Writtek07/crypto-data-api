@@ -46,5 +46,5 @@ end
 gem "connection_pool", "< 3"
 gem "rest-client", "~> 2.1"
 gem "redis", "~> 5.4"
-gem "sidekiq", "< 8.0"
+gem "sidekiq", "< 9.0"
 gem "sidekiq-cron", "~> 2.3"
