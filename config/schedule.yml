@@ -1,0 +1,6 @@
+fetch_coin_prices_every_minute:  
+  cron: "* * * * *"
+  class: "FetchCoinPriceJob"
+  queue: "price_queue"
+  args:
+    action: "queue_price_fetch"

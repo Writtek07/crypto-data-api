@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+bitcoin:
+  coin_name: Bitcoin
+  coin_symbol: btc
+  latest_price: 50000.0
+  last_price_fetch_at: 2026-04-25 20:15:25
+
+ethereum:
+  coin_name: Ethereum
+  coin_symbol: eth
+  latest_price: 3000.0
+  last_price_fetch_at: 2026-04-25 20:15:25

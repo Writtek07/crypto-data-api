@@ -1,0 +1,4 @@
+:queues:
+  - [coin_queue, 10]
+  - [coin_queue_1, 1]
+  - [price_queue, 10]
