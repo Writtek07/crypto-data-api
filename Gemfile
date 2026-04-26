@@ -44,7 +44,7 @@ group :development, :test do
   gem "webmock"
 end
 gem "minitest", "~> 5.1"
-gem "connection_pool", "< 3"
+gem "connection_pool", "< 4"
 gem "rest-client", "~> 2.1"
 gem "redis", "~> 5.4"
 gem "sidekiq", "< 8.0"
